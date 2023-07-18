@@ -1,0 +1,27 @@
+[
+    {
+        "enabled": false,
+        "url": "https://gis.sinica.edu.tw/worldmap/file-exists.php?img=Stamen-png-{z}-{x}-{y}",
+        "options": {
+            "maxNativeZoom": 22,
+            "maxZoom": 25
+        }
+    },
+    {
+        "enabled": false,
+        "url": "https://gis.sinica.edu.tw/worldmap/file-exists.php?img=ESRIWSR-jpg-{z}-{x}-{y}",
+        "options": {
+            "maxNativeZoom": 22,
+            "maxZoom": 25
+        }
+    },
+    {
+        "enabled": false,
+        "url": "https://gis.sinica.edu.tw/worldmap/file-exists.php?img=BingR-png-{z}-{x}-{y}",
+        "options": {
+            "maxNativeZoom": 22,
+            "maxZoom": 25
+        }
+		
+    }
+]

@@ -10,7 +10,7 @@ import View from 'ol/View.js';
 import Overlay from 'ol/Overlay.js';
 import OSM from 'ol/source/OSM.js';
 import VectorSource from 'ol/source/Vector';
-import { Style } from 'ol/Style.js';
+import { Style } from 'ol/style.js';
 import { Tile as TileLayer, Vector as VectorLayer } from 'ol/layer.js';
 import { Zoom, Control } from 'ol/control.js';
 import { Draw, Modify, Snap, Select } from 'ol/interaction.js';
